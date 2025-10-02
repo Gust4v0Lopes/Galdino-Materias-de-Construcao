@@ -1,5 +1,3 @@
-# Galdino-Materias-de-Construcao
-Melhores materiais de construção de São Francisco e Região
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
